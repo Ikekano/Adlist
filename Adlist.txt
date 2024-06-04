@@ -1,0 +1,39 @@
+# Custom Adlist for Pi-Hole for certain domains that these lists don't normally block
+#
+# https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+# https://v.firebog.net/hosts/static/w3kbl.txt
+# https://adaway.org/hosts.txt
+# https://v.firebog.net/hosts/AdguardDNS.txt
+# https://v.firebog.net/hosts/Admiral.txt
+# https://v.firebog.net/hosts/Easyprivacy.txt
+# https://v.firebog.net/hosts/Prigent-Ads.txt
+# https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+#
+# Updated 6-4-24
+
+antivirusgaming.com
+banddisordergraceless.com
+c4dfff0504d2df52159c374316696aa14f792c9a584a1cdce3b9fa8fcd0a922.us-east-1.prod.service.minerva.devices.a2z.com
+cdn.pubfuture-ad.com
+dailyinspirationforphotographers.com	
+dippingunstable.com	
+disclosestockingsprestigious.com	
+discountstickersky.com	
+discovery.meethue.com	
+fruitlessleanslender.com	
+indiscreetjobroutine.com	
+iolo.ltroute.com	
+itychildrenast.info	
+jmydjxik.com	
+massivetreadsuperior.com	
+nudgehydrogen.com	
+nyihcpzdloe.com	
+s3.pubfuture.com	
+saltstem.site	
+traymute.com	
+wayfgwbipgiz.com	
+whaijoorgoo.com	
+wrenchforcedlandmark.com	
+www.iolo.com
