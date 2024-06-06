@@ -11,7 +11,7 @@
 # https://v.firebog.net/hosts/Prigent-Ads.txt
 # https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 #
-# Updated 6-4-24
+# Updated 6-6-24
 
 antivirusgaming.com
 banddisordergraceless.com
@@ -37,3 +37,13 @@ wayfgwbipgiz.com
 whaijoorgoo.com
 wrenchforcedlandmark.com
 www.iolo.com
+wvlex0vl.loyaltystars.com
+static.zdassets.com
+loyaltystars.zendesk.com
+loyaltystars.com
+widget-mediator.zopim.com
+v.vfgte.com
+starmobmedia.com
+iolo.ltroute.com
+rqazepammrl.com
+
