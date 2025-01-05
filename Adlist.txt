@@ -11,6 +11,8 @@
 # https://v.firebog.net/hosts/Prigent-Ads.txt
 # https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 #
+# https://raw.githubusercontent.com/Ikekano/Adlist/main/Adlist.txt
+# 
 # Updated 6-9-24
 
 antivirusgaming.com
