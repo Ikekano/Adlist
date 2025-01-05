@@ -1,5 +1,6 @@
 # Custom Adlist for Pi-Hole for certain domains that these lists don't normally block
 #
+# Adlists:
 # https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
@@ -11,6 +12,7 @@
 # https://v.firebog.net/hosts/Prigent-Ads.txt
 # https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 #
+# This Adlist:
 # https://raw.githubusercontent.com/Ikekano/Adlist/main/Adlist.txt
 # 
 # Updated 6-9-24
