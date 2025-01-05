@@ -24,8 +24,14 @@ Use Raspberry Pi Imager to install **Raspberry Pi OS Lite (64-bit)** on an SD Ca
 1. Plug Keyboard into Pi and insert finished SD Card
 2. Boot the Pi with a monitor and use the login that was made using the Pi Imager in step 5 when prompted for a login
 3. Use the following command to begin the setup script:
+
 ```
 curl -sSL https://install.pi-hole.net | bash
 ```
 
+4. Once the installer is loaded (Blue Screen) follow the prompts
+      - In regards to the **Static IP**, if the DHCP is handled by the router and the Pi-hole is **NOT** the one responsible for DHCP assignments, then continue without assigning a static IP.
+5. Select **eth0** for ethernet or **wlan0** for wifi interface (Ethernet is Preferred)
+6. Select one of the upstream DNS servers (Google or Cloudflare are fine)
+7. Continue through the prompts until the installation is complete
 
